@@ -10,3 +10,5 @@
 ### Show your regression model’s score.  Done 
 ### Draw at least three conclusions from your regression model.  Done 
 ### Your notebook should be clutter free and polished.  Done 
+
+The pull requst is : https://github.com/shahd1995913/linear-regression/pull/1
