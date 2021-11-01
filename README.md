@@ -11,4 +11,6 @@
 ### Draw at least three conclusions from your regression model.  Done 
 ### Your notebook should be clutter free and polished.  Done 
 
-The pull requst is : https://github.com/shahd1995913/linear-regression/pull/1
+The pull requst is :
+1. https://github.com/shahd1995913/linear-regression/pull/1
+2. https://github.com/shahd1995913/linear-regression/pull/2
